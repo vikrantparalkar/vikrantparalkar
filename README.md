@@ -18,9 +18,11 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=argocd,gitlabci,azuredevops,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="48" alt="SonarQube" />
   <img height="48" alt="image" src="https://github.com/user-attachments/assets/72d84f7d-e18e-4f8e-bd64-c830e6575bb3" />
+  <img height="48" alt="image" src="https://github.com/user-attachments/assets/a5843aa3-0251-4f00-8aa3-2284edc117b7" />
+
 
 </p>
 
