@@ -21,7 +21,7 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
   <img src="https://skillicons.dev/icons?i=argocd,gitlabci,azuredevops,prometheus,grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="48" alt="SonarQube" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nexus/nexus-original.svg" height="48" alt="Nexus" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Trivy_logo.svg" height="48" alt="Trivy" />
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" height="48" alt="Trivy" />
 </p>
 
 ---
