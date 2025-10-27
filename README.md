@@ -1,6 +1,6 @@
 # 👨‍💻 Vikrant Paralkar
 
-### DevOps Engineer | Cloud Security Enthusiast | Automation & Infrastructure as Code
+### DevOps Engineer | Security Enthusiast | Automation & Infrastructure as Code
 
 ---
 
@@ -14,14 +14,14 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,aws,azure,linux,bash,python,maven,github,gitlab,git,githubactions,gitlabci,azuredevops,argocd,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,aws,azure,linux,bash,python,maven,github,gitlab,git,githubactions" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=trivy,sonarqube,nexus" />
+  <img src="https://skillicons.dev/icons?i=gitlabci,azuredevops,argocd,prometheus,grafana,trivy,sonarqube,nexus" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect or collaborate on DevOps and security-related projects.*  
+⭐ *Let's connect!*  
 📧 **vikrantparalkar21@gmail.com**
