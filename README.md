@@ -11,77 +11,24 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
 
 ---
 
-### ⚙️ Core Skills
+### 🧰 Tech Stack
 
-**DevOps & Automation**
-- Docker | Kubernetes (K8s) | Jenkins | Ansible | Terraform | ArgoCD | GitHub Actions | GitLab CI/CD | Azure Pipelines | Maven
+<p align="center">
+  <!-- DevOps Core -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins,githubactions,gitlab,azure,aws,linux,bash,python" />
+</p>
 
-**Cloud Platforms**
-- AWS | Microsoft Azure | Azure AKS | Azure Container Registry (ACR)
+<p align="center">
+  <!-- Monitoring, Security, Tools -->
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,maven,git" />
+</p>
 
-**Monitoring & Observability**
-- Prometheus | Grafana
-
-**Security & Compliance**
-- Trivy | SonarQube | Nexus | Cloud Security Best Practices | Container Image Scanning | Secure Pipeline Design
-
-**Version Control & Collaboration**
-- Git | GitHub | GitLab | GitLab Runners
-
-**Scripting & Programming**
-- Bash Scripting | Python
-
-**Operating Systems**
-- Linux (Ubuntu, CentOS)
-
----
-
-### 🔒 Focus Areas
-
-- Secure DevOps (DevSecOps) Implementation  
-- Infrastructure as Code (IaC) using Terraform and Ansible  
-- Container Security & Image Vulnerability Scanning  
-- CI/CD Pipeline Hardening and Access Control  
-- Cloud Infrastructure Monitoring and Alerting  
-- Security-Integrated Automation Workflows  
-
----
-
-### 🧠 Currently Exploring
-
-- Advanced Kubernetes Security  
-- GitOps Workflows with ArgoCD  
-- Policy as Code (OPA / Conftest)  
-- Cloud Infrastructure Threat Modeling  
-
----
-
-### 📫 Contact
-
-- 📧 **Email:** [info@markscape.co.in](mailto:info@markscape.co.in)
-- 💼 **LinkedIn:** [linkedin.com/in/vikrantparalkar](#) *(add your real link here)*
-- 🌐 **Portfolio/Website:** [markscape.co.in](https://markscape.co.in)
-
----
-
-### 🛠️ Tools I Use Regularly
-| Category | Tools |
-|-----------|-------|
-| CI/CD | Jenkins, GitHub Actions, GitLab CI, Azure Pipelines |
-| Containers | Docker, Kubernetes, AKS |
-| IaC | Terraform, Ansible |
-| Monitoring | Prometheus, Grafana |
-| Security | Trivy, SonarQube, Nexus |
-| Cloud | AWS, Azure |
-| Scripting | Bash, Python |
-| Version Control | Git, GitHub, GitLab |
-
----
-
-### 📌 Quote I Follow
-
-> *"Automation and security are not separate — they’re the foundation of reliable systems."*  
-> — Vikrant Paralkar
+<p align="center">
+  <img src="https://img.shields.io/badge/Trivy-Image%20Scanner-blue?style=flat&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-brightgreen?style=flat&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repo-yellow?style=flat&logo=sonatype&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat&logo=argo&logoColor=white"/>
+</p>
 
 ---
 
