@@ -1,5 +1,4 @@
 # 👨‍💻 Vikrant Paralkar
-
 ---
 
 ### 👋 About Me
