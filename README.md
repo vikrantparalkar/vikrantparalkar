@@ -1,6 +1,4 @@
 # 👨‍💻 Vikrant Paralkar
----
-
 ### 👋 About Me
 I’m a DevOps professional passionate about **cloud infrastructure, automation, and security**.  
 I enjoy building secure and scalable systems by integrating **DevOps practices** with **Security** principles.  
