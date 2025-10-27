@@ -14,11 +14,11 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,aws,azure,linux,bash,python,maven,github,gitlab,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,aws,azure,linux,bash" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=argocd,gitlabci,azuredevops,prometheus,grafana,trivy,sonarqube,nexus" />
+  <img src="https://skillicons.dev/icons?i=argocd,gitlabci,azuredevops,prometheus,grafana,trivy,sonarqube,nexus,python,maven,github,gitlab,git,githubactions" />
 </p>
 
 ---
