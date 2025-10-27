@@ -1,7 +1,5 @@
 # 👨‍💻 Vikrant Paralkar
 
-### DevOps Engineer | Security Enthusiast | Automation & Infrastructure as Code
-
 ---
 
 ### 👋 About Me
