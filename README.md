@@ -11,42 +11,39 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
 
 ---
 
+### 🧰 Tech Stack
+
 <p align="center">
-  <!-- Core DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,ansible,terraform,jenkins,kubernetes,aws,azure,linux,git,github,gitlab,python,bash,maven" alt="core icons" />
-
-  <!-- CI/CD / Runners / GitOps -->
-  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,gitlabci" alt="ci icons" />
-
-  <!-- Monitoring & Security -->
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="monitoring icons" />
+  <!-- Core DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,ansible,terraform,jenkins,kubernetes,linux,bash,python,maven" />
 </p>
 
 <p align="center">
-  <!-- Tools without skillicons or specialized badges -->
-  <img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat&logo=argo" />
-  <img src="https://img.shields.io/badge/GitLab--Runners-runner-blue?style=flat&logo=gitlab" />
-  <img src="https://img.shields.io/badge/ACR-Azure%20Container%20Registry-0078D4?style=flat&logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/Azure%20Pipelines-CI/CD-0078D4?style=flat&logo=azuredevops" />
-  <img src="https://img.shields.io/badge/Trivy-Vulnerability%20Scanner-0078D4?style=flat&logo=aqua" />
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-brightgreen?style=flat&logo=sonarqube" />
-  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repo-yellow?style=flat&logo=sonatype" />
+  <!-- Cloud & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,github,gitlab,git" />
+</p>
+
+<p align="center">
+  <!-- CI/CD Tools -->
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,azuredevops" />
+</p>
+
+<p align="center">
+  <!-- GitOps, Monitoring, Security -->
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+<p align="center">
+  <!-- Additional specialized tools (custom badges) -->
+  <img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Pipelines-CI/CD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACR-Azure%20Container%20Registry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-Vulnerability%20Scanner-0080FF?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-brightgreen?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repository-yellow?style=for-the-badge&logo=sonatype&logoColor=black" />
 </p>
 
 ---
 
-### 🔒 Security & Focus
-- DevSecOps: integrate image scanning, SCA, and pipeline hardening  
-- Container & image security (Trivy, registry policies, ACR)  
-- Policy-as-code & GitOps (ArgoCD + OPA ideas)  
-- Secure IaC (Terraform best practices, module design, state security)
-
----
-
-### 📫 Contact
-`vikrantparalkar21@gmail.com`
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to connect or collaborate on DevOps and security-related projects.*
-
+⭐ *Thanks for visiting my profile! Feel free to connect or collaborate on DevOps and security-related projects.*  
+📧 **vikrantparalkar21@gmail.com**
