@@ -14,13 +14,16 @@ My focus lies in developing efficient CI/CD pipelines, infrastructure automation
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,aws,azure,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,aws,azure,linux,bash,python,maven,github,gitlab,git,githubactions" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=argocd,gitlabci,azuredevops,prometheus,grafana,trivy,sonarqube,nexus,python,maven,github,gitlab,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=argocd,gitlabci,azuredevops,prometheus,grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="48" alt="SonarQube" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nexus/nexus-original.svg" height="48" alt="Nexus" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Trivy_logo.svg" height="48" alt="Trivy" />
 </p>
 
 ---
 
-⭐ Let's connect — **vikrantparalkar21@gmail.com**
+⭐ Let's connect — 📧 **vikrantparalkar21@gmail.com**
